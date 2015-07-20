@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="open_list">Open list</string>
+    <string name="video_loading">Video is loading…</string>
+</resources>
